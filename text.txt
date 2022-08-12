@@ -1,0 +1,1 @@
+112003097 Nidhi Patel. Implementation of text compression using huffman coding. Huffman coding is one of the most popular and efficient data compression coding. The minimum length is assigned to one with the highest probability of occurance.
